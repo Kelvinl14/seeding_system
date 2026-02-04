@@ -1,0 +1,231 @@
+{
+  "Eletrônicos": {
+    "televisores": {
+      "base_products": [
+        "Smart TV Samsung Crystal UHD 4K",
+        "Smart TV LG ThinQ AI NanoCell",
+        "Smart TV TCL Google TV",
+        "Smart TV Philips Ambilight"
+      ],
+      "variations": {
+        "tamanho_tela": ["32\"", "43\"", "50\"", "55\"", "65\"", "75\""],
+        "voltagem": ["Bivolt"],
+        "cor": ["Preto", "Cinza"]
+      }
+    },
+    "audio": {
+      "base_products": [
+        "Caixa de Som JBL Flip",
+        "Caixa de Som JBL PartyBox",
+        "Soundbar Samsung com Subwoofer"
+      ],
+      "variations": {
+        "potencia": ["20W", "30W", "160W", "300W"],
+        "cor": ["Preto", "Azul", "Camuflado"],
+        "recurso": ["Bluetooth", "À prova d'água"]
+      }
+    },
+    "tablets": {
+      "base_products": [
+        "Tablet Samsung Galaxy Tab S",
+        "Tablet Samsung Galaxy Tab A",
+        "Apple iPad Air",
+        "Apple iPad Pro M2"
+      ],
+      "variations": {
+        "armazenamento": ["64GB", "128GB", "256GB", "512GB"],
+        "versao": ["Wi-Fi", "Wi-Fi + Cellular"],
+        "cor": ["Cinza Espacial", "Prata", "Azul", "Rosa"]
+      }
+    },
+    "consoles": {
+      "playstation": {
+        "base_products": ["Console PlayStation 5"],
+        "variations": {
+          "versao": ["Versão Digital", "Versão com Disco"],
+          "armazenamento": ["825GB"],
+          "cor": ["Branco", "Preto"]
+        }
+      },
+      "xbox": {
+        "base_products": ["Console Xbox Series"],
+        "variations": {
+          "versao": ["Series S", "Series X"],
+          "armazenamento": ["512GB", "1TB"],
+          "cor": ["Branco", "Preto"]
+        }
+      }
+    }
+  },
+
+  "Informática": {
+    "notebooks": {
+      "base_products": [
+        "Notebook Lenovo IdeaPad 3",
+        "Notebook Acer Aspire 5",
+        "Notebook Dell Inspiron 15",
+        "MacBook Air M2",
+        "MacBook Pro M3"
+      ],
+      "variations": {
+        "processador": ["Intel Core i5", "Intel Core i7", "AMD Ryzen 5", "Apple M2", "Apple M3"],
+        "memoria_ram": ["8GB RAM", "16GB RAM", "32GB RAM"],
+        "armazenamento": ["256GB SSD", "512GB SSD", "1TB SSD"],
+        "tamanho_tela": ["13.3\"", "14\"", "15.6\""],
+        "padrao_teclado": ["ABNT2", "US International"]
+      }
+    },
+    "monitores": {
+      "base_products": [
+        "Monitor Samsung Odyssey",
+        "Monitor LG UltraWide",
+        "Monitor Dell Professional"
+      ],
+      "variations": {
+        "tamanho_tela": ["24\"", "27\"", "34\""],
+        "recurso": ["75Hz", "144Hz", "4K Ultra HD", "Curvo"],
+        "cor": ["Preto"]
+      }
+    },
+    "perifericos": {
+      "mouse": {
+        "base_products": [
+          "Mouse Gamer Logitech G Series",
+          "Mouse Sem Fio Dell"
+        ],
+        "variations": {
+          "cor": ["Preto", "Branco", "Rosa"],
+          "recurso": ["Silent Click", "Sem Fio", "Bluetooth"]
+        }
+      },
+      "teclado": {
+        "base_products": [
+          "Teclado Mecânico Redragon",
+          "Teclado Logitech Pebble"
+        ],
+        "variations": {
+          "cor": ["Preto", "Branco", "Rosa"],
+          "recurso": ["RGB", "Bluetooth"],
+          "padrao_teclado": ["ABNT2"]
+        }
+      }
+    },
+    "componentes": {
+      "armazenamento": {
+        "base_products": [
+          "SSD Kingston A400 NVMe",
+          "SSD Crucial P3"
+        ],
+        "variations": {
+          "capacidade": ["480GB", "1TB", "2TB"]
+        }
+      },
+      "placas_de_video": {
+        "base_products": ["Placa de Vídeo NVIDIA RTX"],
+        "variations": {
+          "versao": ["RTX 3060", "RTX 4060", "RTX 4070"],
+          "memoria": ["8GB", "12GB"]
+        }
+      }
+    },
+    "impressoras": {
+      "base_products": [
+        "Impressora HP DeskJet Ink Advantage",
+        "Impressora Epson EcoTank"
+      ],
+      "variations": {
+        "tipo": ["Jato de Tinta"],
+        "cor": ["Preto"]
+      }
+    }
+  },
+
+  "Alimentos": {
+    "mercearia": {
+      "base_products": [
+        "Arroz Tio João Tipo 1",
+        "Feijão Camil Carioca",
+        "Feijão Camil Preto",
+        "Açúcar União Refinado",
+        "Farinha de Trigo Dona Benta"
+      ],
+      "variations": {
+        "peso_volume": ["1kg", "2kg", "5kg"],
+        "embalagem": ["Pacote"]
+      }
+    }
+  },
+
+  "Bebidas": {
+    "refrigerantes": {
+      "base_products": [
+        "Refrigerante Coca-Cola",
+        "Guaraná Antarctica"
+      ],
+      "variations": {
+        "peso_volume": ["350ml", "600ml", "1L", "2L"],
+        "tipo": ["Original", "Zero Açúcar"],
+        "embalagem": ["Lata", "Garrafa PET"]
+      }
+    }
+  },
+
+  "Higiene": {
+    "cabelo": {
+      "base_products": [
+        "Shampoo Pantene Controle de Queda",
+        "Shampoo Head & Shoulders",
+        "Condicionador Seda Ceramidas",
+        "Condicionador Dove Reconstrução"
+      ],
+      "variations": {
+        "peso_volume": ["200ml", "350ml", "400ml", "750ml"],
+        "embalagem": ["Frasco", "Refil"]
+      }
+    }
+  },
+
+  "Limpeza": {
+    "lavanderia": {
+      "base_products": [
+        "Sabão em Pó OMO Lavagem Perfeita",
+        "Sabão Líquido Ariel",
+        "Amaciante Downy Concentrado"
+      ],
+      "variations": {
+        "peso_volume": ["1L", "1.5L", "3L", "1.6kg", "2.4kg", "4kg"],
+        "fragrancia": ["Original", "Lavanda"],
+        "tipo": ["Concentrado"]
+      }
+    }
+  },
+
+  "Papelaria": {
+    "escrita": {
+      "base_products": [
+        "Caneta Bic Cristal Esferográfica",
+        "Caneta Stabilo Point 88",
+        "Marcador de Texto Stabilo Boss"
+      ],
+      "variations": {
+        "cor": ["Azul", "Preta", "Vermelha", "Rosa", "Verde"],
+        "ponta": ["0.5mm", "0.7mm"],
+        "embalagem": ["Unidade", "Caixa com 12"]
+      }
+    }
+  },
+
+  "Acessórios": {
+    "energia": {
+      "base_products": [
+        "Carregador de Parede Turbo Samsung",
+        "Carregador Portátil Power Bank Anker"
+      ],
+      "variations": {
+        "potencia": ["20W", "25W", "45W", "65W"],
+        "capacidade": ["10.000mAh", "20.000mAh"],
+        "cor": ["Preto", "Branco"]
+      }
+    }
+  }
+}

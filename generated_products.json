@@ -1,0 +1,4508 @@
+{
+    "metadata": {
+        "generated_at": "2025-12-31T00:16:18.602480",
+        "total_products": 500
+    },
+    "products": [
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 3193.55,
+            "sale_price": 4915.23,
+            "date_added": "2025-09-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 1454.36,
+            "sale_price": 2422.62,
+            "date_added": "2025-08-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Dell Professional 24\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Dell Professional 24\" 4K Ultra HD Preto",
+            "cost_price": 1447.82,
+            "sale_price": 2319.19,
+            "date_added": "2025-12-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Azul Bluetooth",
+            "cost_price": 2306.51,
+            "sale_price": 3225.08,
+            "date_added": "2025-10-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Azul Bluetooth",
+            "cost_price": 2030.8,
+            "sale_price": 2596.98,
+            "date_added": "2025-11-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 2501.75,
+            "sale_price": 3733.16,
+            "date_added": "2025-09-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi Azul",
+            "cost_price": 2209.14,
+            "sale_price": 2872.04,
+            "date_added": "2025-10-05",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 815.44,
+            "sale_price": 1130.08,
+            "date_added": "2025-11-07",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 160W Camuflado À prova d'água",
+            "cost_price": 1472.64,
+            "sale_price": 2041.08,
+            "date_added": "2025-07-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 27\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Dell Professional 27\" 4K Ultra HD Preto",
+            "cost_price": 787.48,
+            "sale_price": 1183.33,
+            "date_added": "2025-12-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Azul",
+            "cost_price": 1599.35,
+            "sale_price": 2476.82,
+            "date_added": "2025-07-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 2284.99,
+            "sale_price": 3434.98,
+            "date_added": "2025-10-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 34\" 75Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 34\" 75Hz Preto",
+            "cost_price": 2776.75,
+            "sale_price": 4087.14,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1319.45,
+            "sale_price": 2183.91,
+            "date_added": "2025-08-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 2294.98,
+            "sale_price": 3118.17,
+            "date_added": "2025-10-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Camuflado À prova d'água",
+            "cost_price": 1660.62,
+            "sale_price": 2324.12,
+            "date_added": "2025-09-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 2247.08,
+            "sale_price": 3600.61,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi Rosa",
+            "cost_price": 2254.74,
+            "sale_price": 3008.88,
+            "date_added": "2025-09-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 2046.04,
+            "sale_price": 3139.29,
+            "date_added": "2025-08-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Camuflado À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Camuflado À prova d'água",
+            "cost_price": 1503.68,
+            "sale_price": 2297.09,
+            "date_added": "2025-11-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi Azul",
+            "cost_price": 2002.55,
+            "sale_price": 3063.41,
+            "date_added": "2025-10-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 50\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 50\" Bivolt Preto",
+            "cost_price": 1883.79,
+            "sale_price": 2613.88,
+            "date_added": "2025-12-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 1272.6,
+            "sale_price": 1632.39,
+            "date_added": "2025-11-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi Azul",
+            "cost_price": 2711.26,
+            "sale_price": 3720.49,
+            "date_added": "2025-08-08",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 50\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 50\" Bivolt Preto",
+            "cost_price": 1604.02,
+            "sale_price": 2569.49,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 2510.83,
+            "sale_price": 3299.04,
+            "date_added": "2025-07-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 300W Azul Bluetooth",
+            "cost_price": 2754.0,
+            "sale_price": 3738.79,
+            "date_added": "2025-09-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 1757.96,
+            "sale_price": 2585.76,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi + Cellular Rosa",
+            "cost_price": 865.47,
+            "sale_price": 1213.55,
+            "date_added": "2025-07-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 20W Camuflado Bluetooth",
+            "cost_price": 2571.06,
+            "sale_price": 3632.67,
+            "date_added": "2025-12-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Prata",
+            "cost_price": 1772.28,
+            "sale_price": 2706.83,
+            "date_added": "2025-07-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Camuflado À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Camuflado À prova d'água",
+            "cost_price": 2844.68,
+            "sale_price": 3980.51,
+            "date_added": "2025-12-02",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1951.21,
+            "sale_price": 3012.27,
+            "date_added": "2025-08-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi Cinza Espacial",
+            "cost_price": 2065.07,
+            "sale_price": 3022.9,
+            "date_added": "2025-12-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 27\" 144Hz Preto",
+            "description": "Produto Monitor LG UltraWide 27\" 144Hz Preto",
+            "cost_price": 2484.88,
+            "sale_price": 3119.21,
+            "date_added": "2025-07-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "cost_price": 1605.85,
+            "sale_price": 2386.39,
+            "date_added": "2025-07-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi Cinza Espacial",
+            "cost_price": 2193.55,
+            "sale_price": 3139.97,
+            "date_added": "2025-12-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Rosa",
+            "cost_price": 1632.21,
+            "sale_price": 2458.46,
+            "date_added": "2025-08-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Rosa",
+            "cost_price": 1409.64,
+            "sale_price": 1888.32,
+            "date_added": "2025-12-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi Cinza Espacial",
+            "cost_price": 2663.78,
+            "sale_price": 3885.48,
+            "date_added": "2025-11-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi Prata",
+            "cost_price": 2177.49,
+            "sale_price": 3614.13,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "cost_price": 1067.47,
+            "sale_price": 1677.82,
+            "date_added": "2025-12-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 30W Camuflado À prova d'água",
+            "cost_price": 1960.37,
+            "sale_price": 2680.07,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Feijão Camil Carioca 2kg Pacote",
+            "description": "Produto Feijão Camil Carioca 2kg Pacote",
+            "cost_price": 15.53,
+            "sale_price": 25.75,
+            "date_added": "2025-12-26",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 300W Azul À prova d'água",
+            "cost_price": 2840.59,
+            "sale_price": 3833.46,
+            "date_added": "2025-10-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 55\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 55\" Bivolt Preto",
+            "cost_price": 2160.05,
+            "sale_price": 2831.38,
+            "date_added": "2025-09-02",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1695.63,
+            "sale_price": 2637.17,
+            "date_added": "2025-12-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 3038.67,
+            "sale_price": 4897.96,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 50\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 50\" Bivolt Cinza",
+            "cost_price": 1918.42,
+            "sale_price": 2962.96,
+            "date_added": "2025-09-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Impressora Epson EcoTank Jato de Tinta Preto",
+            "description": "Produto Impressora Epson EcoTank Jato de Tinta Preto",
+            "cost_price": 1521.37,
+            "sale_price": 2154.6,
+            "date_added": "2025-10-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 630.0,
+            "sale_price": 914.7,
+            "date_added": "2025-11-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Preto Bluetooth",
+            "cost_price": 1972.3,
+            "sale_price": 2468.65,
+            "date_added": "2025-11-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 841.47,
+            "sale_price": 1324.19,
+            "date_added": "2025-11-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 2069.41,
+            "sale_price": 3431.33,
+            "date_added": "2025-10-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV TCL Google TV 50\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 50\" Bivolt Cinza",
+            "cost_price": 1526.91,
+            "sale_price": 2364.44,
+            "date_added": "2025-07-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 1855.41,
+            "sale_price": 2380.29,
+            "date_added": "2025-12-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 2124.06,
+            "sale_price": 3180.7,
+            "date_added": "2025-07-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 55\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 55\" Bivolt Cinza",
+            "cost_price": 1022.94,
+            "sale_price": 1667.37,
+            "date_added": "2025-08-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Camuflado Bluetooth",
+            "cost_price": 2161.26,
+            "sale_price": 3141.9,
+            "date_added": "2025-09-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi Rosa",
+            "cost_price": 1848.05,
+            "sale_price": 3058.86,
+            "date_added": "2025-11-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "cost_price": 925.15,
+            "sale_price": 1156.44,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi Azul",
+            "cost_price": 1294.76,
+            "sale_price": 1649.21,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi Cinza Espacial",
+            "cost_price": 2305.27,
+            "sale_price": 3772.83,
+            "date_added": "2025-09-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 2157.89,
+            "sale_price": 3098.87,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1794.44,
+            "sale_price": 2406.04,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi Cinza Espacial",
+            "cost_price": 1528.02,
+            "sale_price": 2037.04,
+            "date_added": "2025-09-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi + Cellular Azul",
+            "cost_price": 1045.92,
+            "sale_price": 1480.82,
+            "date_added": "2025-11-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi Prata",
+            "cost_price": 2596.57,
+            "sale_price": 3330.59,
+            "date_added": "2025-11-08",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 1520.44,
+            "sale_price": 2421.82,
+            "date_added": "2025-08-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi + Cellular Rosa",
+            "cost_price": 1580.95,
+            "sale_price": 2375.54,
+            "date_added": "2025-12-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "cost_price": 2577.56,
+            "sale_price": 4153.93,
+            "date_added": "2025-10-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi + Cellular Prata",
+            "cost_price": 2179.37,
+            "sale_price": 3287.03,
+            "date_added": "2025-08-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi + Cellular Prata",
+            "cost_price": 1826.88,
+            "sale_price": 2759.88,
+            "date_added": "2025-10-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi Prata",
+            "cost_price": 2541.72,
+            "sale_price": 3306.94,
+            "date_added": "2025-09-01",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 24\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Samsung Odyssey 24\" 4K Ultra HD Preto",
+            "cost_price": 2236.69,
+            "sale_price": 3010.11,
+            "date_added": "2025-10-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi Rosa",
+            "cost_price": 1578.23,
+            "sale_price": 2018.32,
+            "date_added": "2025-09-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 32\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 32\" Bivolt Preto",
+            "cost_price": 1418.99,
+            "sale_price": 2204.97,
+            "date_added": "2025-09-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi Rosa",
+            "cost_price": 1233.06,
+            "sale_price": 1699.76,
+            "date_added": "2025-08-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Preto Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Preto Bluetooth",
+            "cost_price": 2426.73,
+            "sale_price": 3678.49,
+            "date_added": "2025-09-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 75\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 75\" Bivolt Preto",
+            "cost_price": 860.12,
+            "sale_price": 1253.82,
+            "date_added": "2025-08-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2948.78,
+            "sale_price": 3754.85,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 303.84,
+            "sale_price": 433.74,
+            "date_added": "2025-09-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 160W Camuflado Bluetooth",
+            "cost_price": 2112.54,
+            "sale_price": 3400.6,
+            "date_added": "2025-12-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Rosa",
+            "cost_price": 986.87,
+            "sale_price": 1397.21,
+            "date_added": "2025-10-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi Cinza Espacial",
+            "cost_price": 2184.59,
+            "sale_price": 2941.87,
+            "date_added": "2025-11-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1947.53,
+            "sale_price": 2946.93,
+            "date_added": "2025-11-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "cost_price": 624.46,
+            "sale_price": 786.95,
+            "date_added": "2025-10-06",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Prata",
+            "cost_price": 980.8,
+            "sale_price": 1279.53,
+            "date_added": "2025-08-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "cost_price": 2491.39,
+            "sale_price": 4141.74,
+            "date_added": "2025-09-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi Prata",
+            "cost_price": 1334.71,
+            "sale_price": 1683.92,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Azul À prova d'água",
+            "cost_price": 2698.48,
+            "sale_price": 3707.79,
+            "date_added": "2025-10-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Azul À prova d'água",
+            "cost_price": 1174.85,
+            "sale_price": 1928.02,
+            "date_added": "2025-11-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 65\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 65\" Bivolt Cinza",
+            "cost_price": 929.21,
+            "sale_price": 1238.71,
+            "date_added": "2025-12-20",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "cost_price": 1825.99,
+            "sale_price": 2493.61,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi Rosa",
+            "cost_price": 1826.97,
+            "sale_price": 2417.96,
+            "date_added": "2025-12-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 24\" 75Hz Preto",
+            "description": "Produto Monitor Dell Professional 24\" 75Hz Preto",
+            "cost_price": 1871.6,
+            "sale_price": 2934.12,
+            "date_added": "2025-08-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Camuflado À prova d'água",
+            "cost_price": 973.41,
+            "sale_price": 1555.08,
+            "date_added": "2025-09-01",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "cost_price": 3822.84,
+            "sale_price": 4917.01,
+            "date_added": "2025-08-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Azul Bluetooth",
+            "cost_price": 1140.61,
+            "sale_price": 1893.34,
+            "date_added": "2025-12-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 20W Preto Bluetooth",
+            "cost_price": 1339.46,
+            "sale_price": 1761.95,
+            "date_added": "2025-08-02",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Azul Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Azul Bluetooth",
+            "cost_price": 798.36,
+            "sale_price": 1222.24,
+            "date_added": "2025-11-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2384.49,
+            "sale_price": 3317.57,
+            "date_added": "2025-10-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 2865.54,
+            "sale_price": 3634.3,
+            "date_added": "2025-12-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi Prata",
+            "cost_price": 1155.27,
+            "sale_price": 1558.97,
+            "date_added": "2025-10-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 2172.01,
+            "sale_price": 2751.08,
+            "date_added": "2025-10-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi Azul",
+            "cost_price": 1329.68,
+            "sale_price": 1872.26,
+            "date_added": "2025-10-08",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 2669.79,
+            "sale_price": 3450.7,
+            "date_added": "2025-12-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 472.09,
+            "sale_price": 763.16,
+            "date_added": "2025-10-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2361.2,
+            "sale_price": 3851.98,
+            "date_added": "2025-07-07",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2834.11,
+            "sale_price": 3713.89,
+            "date_added": "2025-09-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 3366.0,
+            "sale_price": 4339.8,
+            "date_added": "2025-11-01",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi Rosa",
+            "cost_price": 1982.14,
+            "sale_price": 3086.04,
+            "date_added": "2025-09-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi Azul",
+            "cost_price": 1115.06,
+            "sale_price": 1791.53,
+            "date_added": "2025-08-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 910.2,
+            "sale_price": 1272.92,
+            "date_added": "2025-08-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 837.58,
+            "sale_price": 1259.94,
+            "date_added": "2025-08-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 3748.46,
+            "sale_price": 4798.6,
+            "date_added": "2025-09-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 1204.61,
+            "sale_price": 1934.24,
+            "date_added": "2025-12-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 2105.76,
+            "sale_price": 3091.44,
+            "date_added": "2025-09-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Prata",
+            "cost_price": 1058.73,
+            "sale_price": 1413.45,
+            "date_added": "2025-09-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 3274.56,
+            "sale_price": 4871.54,
+            "date_added": "2025-12-26",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 2397.74,
+            "sale_price": 3124.18,
+            "date_added": "2025-12-06",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 191.05,
+            "sale_price": 271.32,
+            "date_added": "2025-08-06",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Preto Bluetooth",
+            "cost_price": 2420.4,
+            "sale_price": 3990.42,
+            "date_added": "2025-09-07",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 207.31,
+            "sale_price": 277.35,
+            "date_added": "2025-08-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 2273.28,
+            "sale_price": 3347.35,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 2416.88,
+            "sale_price": 3299.71,
+            "date_added": "2025-10-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi Azul",
+            "cost_price": 1859.48,
+            "sale_price": 2375.38,
+            "date_added": "2025-10-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 75\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 75\" Bivolt Preto",
+            "cost_price": 1304.27,
+            "sale_price": 1964.91,
+            "date_added": "2025-12-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 1714.03,
+            "sale_price": 2568.81,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 20W Azul Bluetooth",
+            "cost_price": 2167.43,
+            "sale_price": 2821.47,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 34\" Curvo Preto",
+            "description": "Produto Monitor LG UltraWide 34\" Curvo Preto",
+            "cost_price": 2706.88,
+            "sale_price": 4296.67,
+            "date_added": "2025-08-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 2793.82,
+            "sale_price": 4054.8,
+            "date_added": "2025-11-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 24\" 75Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 24\" 75Hz Preto",
+            "cost_price": 992.32,
+            "sale_price": 1254.68,
+            "date_added": "2025-11-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 34\" 144Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 34\" 144Hz Preto",
+            "cost_price": 3408.18,
+            "sale_price": 4787.51,
+            "date_added": "2025-09-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 1104.31,
+            "sale_price": 1503.06,
+            "date_added": "2025-12-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Azul À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Azul À prova d'água",
+            "cost_price": 1086.45,
+            "sale_price": 1373.8,
+            "date_added": "2025-12-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 331.3,
+            "sale_price": 518.74,
+            "date_added": "2025-12-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Camuflado À prova d'água",
+            "cost_price": 2060.9,
+            "sale_price": 2795.97,
+            "date_added": "2025-08-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 758.09,
+            "sale_price": 1004.25,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 2537.88,
+            "sale_price": 4010.41,
+            "date_added": "2025-10-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 1670.83,
+            "sale_price": 2291.91,
+            "date_added": "2025-11-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "cost_price": 965.24,
+            "sale_price": 1437.27,
+            "date_added": "2025-07-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 980.15,
+            "sale_price": 1341.94,
+            "date_added": "2025-10-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 3692.2,
+            "sale_price": 4783.06,
+            "date_added": "2025-10-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Arroz Tio João Tipo 1 5kg Pacote",
+            "description": "Produto Arroz Tio João Tipo 1 5kg Pacote",
+            "cost_price": 44.37,
+            "sale_price": 58.01,
+            "date_added": "2025-08-16",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi Prata",
+            "cost_price": 1558.87,
+            "sale_price": 2166.22,
+            "date_added": "2025-12-31",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 2920.96,
+            "sale_price": 3948.37,
+            "date_added": "2025-12-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor LG UltraWide 27\" 75Hz Preto",
+            "description": "Produto Monitor LG UltraWide 27\" 75Hz Preto",
+            "cost_price": 1809.87,
+            "sale_price": 2383.87,
+            "date_added": "2025-08-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi + Cellular Prata",
+            "cost_price": 1632.53,
+            "sale_price": 2170.68,
+            "date_added": "2025-09-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1584.45,
+            "sale_price": 2582.68,
+            "date_added": "2025-09-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 43\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 43\" Bivolt Cinza",
+            "cost_price": 1997.5,
+            "sale_price": 3231.3,
+            "date_added": "2025-12-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 1393.32,
+            "sale_price": 2282.63,
+            "date_added": "2025-12-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi Azul",
+            "cost_price": 1202.08,
+            "sale_price": 1923.79,
+            "date_added": "2025-10-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi Rosa",
+            "cost_price": 1156.7,
+            "sale_price": 1867.6,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 65\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 65\" Bivolt Cinza",
+            "cost_price": 2749.48,
+            "sale_price": 3956.07,
+            "date_added": "2025-07-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 1636.37,
+            "sale_price": 2296.66,
+            "date_added": "2025-11-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 1048.42,
+            "sale_price": 1733.7,
+            "date_added": "2025-11-07",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 490.58,
+            "sale_price": 747.68,
+            "date_added": "2025-08-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 34\" Curvo Preto",
+            "description": "Produto Monitor Samsung Odyssey 34\" Curvo Preto",
+            "cost_price": 1102.97,
+            "sale_price": 1399.97,
+            "date_added": "2025-11-01",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 300W Preto À prova d'água",
+            "cost_price": 2125.3,
+            "sale_price": 3031.35,
+            "date_added": "2025-11-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 1824.58,
+            "sale_price": 2740.4,
+            "date_added": "2025-08-07",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 20W Camuflado À prova d'água",
+            "cost_price": 2193.23,
+            "sale_price": 3034.28,
+            "date_added": "2025-11-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi Rosa",
+            "cost_price": 1560.71,
+            "sale_price": 2296.76,
+            "date_added": "2025-11-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Azul",
+            "cost_price": 1544.55,
+            "sale_price": 2502.06,
+            "date_added": "2025-12-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi + Cellular Azul",
+            "cost_price": 1885.29,
+            "sale_price": 3072.82,
+            "date_added": "2025-08-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 1766.74,
+            "sale_price": 2400.29,
+            "date_added": "2025-12-26",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 254.95,
+            "sale_price": 391.47,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "cost_price": 1568.32,
+            "sale_price": 2351.52,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 1383.53,
+            "sale_price": 2161.68,
+            "date_added": "2025-12-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi + Cellular Azul",
+            "cost_price": 1228.93,
+            "sale_price": 1807.26,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 34\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Samsung Odyssey 34\" 4K Ultra HD Preto",
+            "cost_price": 1444.37,
+            "sale_price": 2328.53,
+            "date_added": "2025-10-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 1359.6,
+            "sale_price": 2150.58,
+            "date_added": "2025-09-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Dell Professional 34\" 144Hz Preto",
+            "description": "Produto Monitor Dell Professional 34\" 144Hz Preto",
+            "cost_price": 756.57,
+            "sale_price": 993.33,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2023.78,
+            "sale_price": 2774.99,
+            "date_added": "2025-12-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "cost_price": 1965.05,
+            "sale_price": 2710.54,
+            "date_added": "2025-09-10",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 643.42,
+            "sale_price": 818.52,
+            "date_added": "2025-07-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 558.68,
+            "sale_price": 799.49,
+            "date_added": "2025-12-08",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 3160.91,
+            "sale_price": 4917.69,
+            "date_added": "2025-08-07",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "cost_price": 274.39,
+            "sale_price": 382.88,
+            "date_added": "2025-11-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi Rosa",
+            "cost_price": 1162.08,
+            "sale_price": 1787.51,
+            "date_added": "2025-10-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 65\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 65\" Bivolt Cinza",
+            "cost_price": 1795.72,
+            "sale_price": 2318.34,
+            "date_added": "2025-10-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "cost_price": 70.36,
+            "sale_price": 112.32,
+            "date_added": "2025-12-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Dell Professional 34\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Dell Professional 34\" 4K Ultra HD Preto",
+            "cost_price": 1165.33,
+            "sale_price": 1524.86,
+            "date_added": "2025-09-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Preto À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Preto À prova d'água",
+            "cost_price": 1436.74,
+            "sale_price": 1958.95,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 2446.68,
+            "sale_price": 3343.5,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 3137.53,
+            "sale_price": 4939.71,
+            "date_added": "2025-09-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "cost_price": 1147.35,
+            "sale_price": 1893.1,
+            "date_added": "2025-11-10",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 27\" 144Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 27\" 144Hz Preto",
+            "cost_price": 2046.82,
+            "sale_price": 2738.93,
+            "date_added": "2025-07-12",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 117.8,
+            "sale_price": 163.86,
+            "date_added": "2025-08-06",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "cost_price": 2467.7,
+            "sale_price": 3710.45,
+            "date_added": "2025-11-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Camuflado À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Camuflado À prova d'água",
+            "cost_price": 2604.6,
+            "sale_price": 3417.93,
+            "date_added": "2025-10-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Preto Bluetooth",
+            "cost_price": 2899.64,
+            "sale_price": 3883.45,
+            "date_added": "2025-09-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 1614.83,
+            "sale_price": 2372.47,
+            "date_added": "2025-08-01",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 1067.34,
+            "sale_price": 1749.41,
+            "date_added": "2025-12-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi Cinza Espacial",
+            "cost_price": 2031.06,
+            "sale_price": 2695.72,
+            "date_added": "2025-07-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "cost_price": 2797.41,
+            "sale_price": 4172.33,
+            "date_added": "2025-12-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Preto Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Preto Bluetooth",
+            "cost_price": 1427.03,
+            "sale_price": 2074.62,
+            "date_added": "2025-10-20",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 1931.62,
+            "sale_price": 2754.34,
+            "date_added": "2025-11-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 3421.39,
+            "sale_price": 4680.68,
+            "date_added": "2025-12-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 2130.24,
+            "sale_price": 3255.66,
+            "date_added": "2025-07-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV TCL Google TV 43\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 43\" Bivolt Preto",
+            "cost_price": 1787.74,
+            "sale_price": 2549.34,
+            "date_added": "2025-12-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Açúcar União Refinado 2kg Pacote",
+            "description": "Produto Açúcar União Refinado 2kg Pacote",
+            "cost_price": 10.0,
+            "sale_price": 15.78,
+            "date_added": "2025-12-25",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi + Cellular Rosa",
+            "cost_price": 901.67,
+            "sale_price": 1236.85,
+            "date_added": "2025-10-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Prata",
+            "cost_price": 1621.96,
+            "sale_price": 2118.02,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 1307.93,
+            "sale_price": 1894.53,
+            "date_added": "2025-09-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 2350.68,
+            "sale_price": 3503.54,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi Rosa",
+            "cost_price": 1319.41,
+            "sale_price": 1800.62,
+            "date_added": "2025-11-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 55\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 55\" Bivolt Cinza",
+            "cost_price": 1533.36,
+            "sale_price": 2328.86,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 75\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 75\" Bivolt Cinza",
+            "cost_price": 2835.95,
+            "sale_price": 3872.94,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 75\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 75\" Bivolt Cinza",
+            "cost_price": 1408.4,
+            "sale_price": 2203.27,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1886.81,
+            "sale_price": 2814.53,
+            "date_added": "2025-09-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Preto À prova d'água",
+            "cost_price": 1263.9,
+            "sale_price": 1838.94,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi Cinza Espacial",
+            "cost_price": 2285.73,
+            "sale_price": 2903.52,
+            "date_added": "2025-09-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi + Cellular Rosa",
+            "cost_price": 975.77,
+            "sale_price": 1273.08,
+            "date_added": "2025-12-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 1577.04,
+            "sale_price": 2362.04,
+            "date_added": "2025-09-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 1708.82,
+            "sale_price": 2500.19,
+            "date_added": "2025-12-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor LG UltraWide 34\" 144Hz Preto",
+            "description": "Produto Monitor LG UltraWide 34\" 144Hz Preto",
+            "cost_price": 193.48,
+            "sale_price": 296.96,
+            "date_added": "2025-09-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi Azul",
+            "cost_price": 834.11,
+            "sale_price": 1290.01,
+            "date_added": "2025-11-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 540.26,
+            "sale_price": 716.99,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "cost_price": 3171.14,
+            "sale_price": 4476.38,
+            "date_added": "2025-10-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Dell Professional 24\" Curvo Preto",
+            "description": "Produto Monitor Dell Professional 24\" Curvo Preto",
+            "cost_price": 2449.79,
+            "sale_price": 3907.92,
+            "date_added": "2025-08-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Azul À prova d'água",
+            "cost_price": 1907.05,
+            "sale_price": 2467.82,
+            "date_added": "2025-07-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Camuflado Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Camuflado Bluetooth",
+            "cost_price": 1662.01,
+            "sale_price": 2150.03,
+            "date_added": "2025-12-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 2861.96,
+            "sale_price": 3792.58,
+            "date_added": "2025-11-08",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Prata",
+            "cost_price": 1098.67,
+            "sale_price": 1772.44,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi + Cellular Azul",
+            "cost_price": 2941.52,
+            "sale_price": 3964.0,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi Prata",
+            "cost_price": 1991.29,
+            "sale_price": 2533.27,
+            "date_added": "2025-12-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 34\" 75Hz Preto",
+            "description": "Produto Monitor Dell Professional 34\" 75Hz Preto",
+            "cost_price": 1740.74,
+            "sale_price": 2562.92,
+            "date_added": "2025-08-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 3026.36,
+            "sale_price": 4567.12,
+            "date_added": "2025-09-12",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Feijão Camil Carioca 5kg Pacote",
+            "description": "Produto Feijão Camil Carioca 5kg Pacote",
+            "cost_price": 30.67,
+            "sale_price": 44.71,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 2542.36,
+            "sale_price": 3259.3,
+            "date_added": "2025-08-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 624.87,
+            "sale_price": 801.76,
+            "date_added": "2025-07-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Azul Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Azul Bluetooth",
+            "cost_price": 1823.79,
+            "sale_price": 2282.81,
+            "date_added": "2025-08-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi Azul",
+            "cost_price": 1413.19,
+            "sale_price": 2078.64,
+            "date_added": "2025-11-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Feijão Camil Carioca 1kg Pacote",
+            "description": "Produto Feijão Camil Carioca 1kg Pacote",
+            "cost_price": 26.64,
+            "sale_price": 41.16,
+            "date_added": "2025-11-12",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 3456.49,
+            "sale_price": 4637.43,
+            "date_added": "2025-08-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi Rosa",
+            "cost_price": 1035.37,
+            "sale_price": 1491.24,
+            "date_added": "2025-12-07",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 30W Azul À prova d'água",
+            "cost_price": 1755.26,
+            "sale_price": 2873.21,
+            "date_added": "2025-09-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 62.22,
+            "sale_price": 82.82,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 2510.67,
+            "sale_price": 3972.09,
+            "date_added": "2025-11-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi Prata",
+            "cost_price": 1697.34,
+            "sale_price": 2580.65,
+            "date_added": "2025-11-07",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 3331.25,
+            "sale_price": 4544.24,
+            "date_added": "2025-12-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Azul",
+            "cost_price": 2095.44,
+            "sale_price": 3368.95,
+            "date_added": "2025-11-01",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Azul Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Azul Bluetooth",
+            "cost_price": 2581.25,
+            "sale_price": 3335.4,
+            "date_added": "2025-08-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 55\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 55\" Bivolt Preto",
+            "cost_price": 1400.27,
+            "sale_price": 2230.08,
+            "date_added": "2025-10-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 1896.03,
+            "sale_price": 2618.0,
+            "date_added": "2025-09-15",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 32\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 32\" Bivolt Preto",
+            "cost_price": 2680.55,
+            "sale_price": 3700.19,
+            "date_added": "2025-09-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "cost_price": 3366.87,
+            "sale_price": 4413.24,
+            "date_added": "2025-07-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "cost_price": 337.52,
+            "sale_price": 547.87,
+            "date_added": "2025-11-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1228.69,
+            "sale_price": 1706.02,
+            "date_added": "2025-08-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "cost_price": 365.65,
+            "sale_price": 580.58,
+            "date_added": "2025-08-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 2774.51,
+            "sale_price": 4142.61,
+            "date_added": "2025-12-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi + Cellular Prata",
+            "cost_price": 1926.13,
+            "sale_price": 3180.84,
+            "date_added": "2025-09-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 27\" 4K Ultra HD Preto",
+            "description": "Produto Monitor LG UltraWide 27\" 4K Ultra HD Preto",
+            "cost_price": 1309.79,
+            "sale_price": 1960.66,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 266.0,
+            "sale_price": 350.93,
+            "date_added": "2025-07-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 24\" 144Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 24\" 144Hz Preto",
+            "cost_price": 1503.19,
+            "sale_price": 2282.33,
+            "date_added": "2025-08-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 592.83,
+            "sale_price": 860.04,
+            "date_added": "2025-09-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 1711.32,
+            "sale_price": 2547.95,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV TCL Google TV 55\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 55\" Bivolt Cinza",
+            "cost_price": 2247.56,
+            "sale_price": 3376.31,
+            "date_added": "2025-11-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 1405.0,
+            "sale_price": 2336.49,
+            "date_added": "2025-08-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 75\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 75\" Bivolt Cinza",
+            "cost_price": 1587.54,
+            "sale_price": 2594.05,
+            "date_added": "2025-10-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 32\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 32\" Bivolt Preto",
+            "cost_price": 1188.83,
+            "sale_price": 1512.84,
+            "date_added": "2025-11-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 55\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 55\" Bivolt Preto",
+            "cost_price": 1337.16,
+            "sale_price": 2072.87,
+            "date_added": "2025-08-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi Cinza Espacial",
+            "cost_price": 1871.37,
+            "sale_price": 2828.72,
+            "date_added": "2025-10-07",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi Prata",
+            "cost_price": 2753.19,
+            "sale_price": 3704.56,
+            "date_added": "2025-12-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 27\" Curvo Preto",
+            "description": "Produto Monitor LG UltraWide 27\" Curvo Preto",
+            "cost_price": 3119.51,
+            "sale_price": 4967.71,
+            "date_added": "2025-12-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi Azul",
+            "cost_price": 1487.22,
+            "sale_price": 2138.7,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2052.49,
+            "sale_price": 3154.62,
+            "date_added": "2025-10-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Azul À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Azul À prova d'água",
+            "cost_price": 2420.46,
+            "sale_price": 3294.23,
+            "date_added": "2025-08-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 75\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 75\" Bivolt Preto",
+            "cost_price": 806.69,
+            "sale_price": 1295.71,
+            "date_added": "2025-12-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2590.93,
+            "sale_price": 3619.6,
+            "date_added": "2025-07-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Rosa",
+            "cost_price": 1718.44,
+            "sale_price": 2181.29,
+            "date_added": "2025-08-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 65\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 65\" Bivolt Preto",
+            "cost_price": 2628.65,
+            "sale_price": 3460.71,
+            "date_added": "2025-11-02",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi + Cellular Prata",
+            "cost_price": 2007.38,
+            "sale_price": 3308.95,
+            "date_added": "2025-08-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi + Cellular Prata",
+            "cost_price": 943.63,
+            "sale_price": 1291.84,
+            "date_added": "2025-09-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 2714.22,
+            "sale_price": 3930.99,
+            "date_added": "2025-11-02",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi + Cellular Azul",
+            "cost_price": 1320.67,
+            "sale_price": 2072.2,
+            "date_added": "2025-11-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi Azul",
+            "cost_price": 2555.56,
+            "sale_price": 3404.81,
+            "date_added": "2025-12-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2708.77,
+            "sale_price": 4096.56,
+            "date_added": "2025-09-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 160W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 160W Azul Bluetooth",
+            "cost_price": 1568.36,
+            "sale_price": 2382.81,
+            "date_added": "2025-10-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 64GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Air 64GB Wi-Fi + Cellular Azul",
+            "cost_price": 1633.19,
+            "sale_price": 2119.14,
+            "date_added": "2025-07-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 34\" Curvo Preto",
+            "description": "Produto Monitor Dell Professional 34\" Curvo Preto",
+            "cost_price": 500.71,
+            "sale_price": 672.63,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 522.16,
+            "sale_price": 690.6,
+            "date_added": "2025-09-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 1765.59,
+            "sale_price": 2908.22,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Camuflado Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Camuflado Bluetooth",
+            "cost_price": 2097.74,
+            "sale_price": 3094.65,
+            "date_added": "2025-09-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "cost_price": 261.75,
+            "sale_price": 385.57,
+            "date_added": "2025-09-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi Prata",
+            "cost_price": 2318.93,
+            "sale_price": 3561.95,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 1455.47,
+            "sale_price": 2323.54,
+            "date_added": "2025-10-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "cost_price": 539.68,
+            "sale_price": 691.33,
+            "date_added": "2025-08-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 3835.7,
+            "sale_price": 4942.92,
+            "date_added": "2025-07-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 43\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 43\" Bivolt Cinza",
+            "cost_price": 1682.99,
+            "sale_price": 2212.84,
+            "date_added": "2025-12-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2265.64,
+            "sale_price": 3544.42,
+            "date_added": "2025-10-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi Cinza Espacial",
+            "cost_price": 2665.44,
+            "sale_price": 3549.57,
+            "date_added": "2025-11-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 3600.68,
+            "sale_price": 4689.28,
+            "date_added": "2025-08-10",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 1216.54,
+            "sale_price": 1896.06,
+            "date_added": "2025-12-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 2641.98,
+            "sale_price": 4129.2,
+            "date_added": "2025-12-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Camuflado Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Camuflado Bluetooth",
+            "cost_price": 1536.51,
+            "sale_price": 2011.16,
+            "date_added": "2025-12-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 32\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 32\" Bivolt Cinza",
+            "cost_price": 1533.9,
+            "sale_price": 2127.74,
+            "date_added": "2025-11-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 3207.73,
+            "sale_price": 4157.99,
+            "date_added": "2025-08-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Farinha de Trigo Dona Benta 1kg Pacote",
+            "description": "Produto Farinha de Trigo Dona Benta 1kg Pacote",
+            "cost_price": 34.19,
+            "sale_price": 48.63,
+            "date_added": "2025-11-16",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 14\" US International",
+            "cost_price": 585.23,
+            "sale_price": 835.53,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Preto Bluetooth",
+            "cost_price": 1792.04,
+            "sale_price": 2528.9,
+            "date_added": "2025-10-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi Prata",
+            "cost_price": 1047.01,
+            "sale_price": 1717.53,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Preto À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Preto À prova d'água",
+            "cost_price": 1615.24,
+            "sale_price": 2059.71,
+            "date_added": "2025-08-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Açúcar União Refinado 5kg Pacote",
+            "description": "Produto Açúcar União Refinado 5kg Pacote",
+            "cost_price": 23.91,
+            "sale_price": 30.65,
+            "date_added": "2025-11-20",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 2120.9,
+            "sale_price": 3326.86,
+            "date_added": "2025-12-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Azul À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Azul À prova d'água",
+            "cost_price": 2485.28,
+            "sale_price": 3608.53,
+            "date_added": "2025-07-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "cost_price": 2371.9,
+            "sale_price": 3162.19,
+            "date_added": "2025-12-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 300W Camuflado À prova d'água",
+            "cost_price": 1919.3,
+            "sale_price": 2880.78,
+            "date_added": "2025-12-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 32\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 32\" Bivolt Cinza",
+            "cost_price": 2160.59,
+            "sale_price": 3069.57,
+            "date_added": "2025-09-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 472.41,
+            "sale_price": 729.94,
+            "date_added": "2025-08-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 2460.43,
+            "sale_price": 3363.27,
+            "date_added": "2025-10-08",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 3268.78,
+            "sale_price": 4137.81,
+            "date_added": "2025-11-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi + Cellular Rosa",
+            "cost_price": 1478.9,
+            "sale_price": 2445.35,
+            "date_added": "2025-12-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 3007.08,
+            "sale_price": 3852.17,
+            "date_added": "2025-08-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 1718.72,
+            "sale_price": 2749.53,
+            "date_added": "2025-11-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 1054.72,
+            "sale_price": 1572.27,
+            "date_added": "2025-12-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 1874.82,
+            "sale_price": 2984.07,
+            "date_added": "2025-10-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 256GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 256GB Wi-Fi Rosa",
+            "cost_price": 1263.41,
+            "sale_price": 1768.29,
+            "date_added": "2025-07-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi Prata",
+            "cost_price": 1816.3,
+            "sale_price": 2473.13,
+            "date_added": "2025-07-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi + Cellular Prata",
+            "cost_price": 1639.94,
+            "sale_price": 2647.25,
+            "date_added": "2025-12-07",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 34\" 4K Ultra HD Preto",
+            "description": "Produto Monitor LG UltraWide 34\" 4K Ultra HD Preto",
+            "cost_price": 2228.58,
+            "sale_price": 3515.63,
+            "date_added": "2025-07-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1235.56,
+            "sale_price": 1599.93,
+            "date_added": "2025-10-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1903.89,
+            "sale_price": 2593.27,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor LG UltraWide 34\" 75Hz Preto",
+            "description": "Produto Monitor LG UltraWide 34\" 75Hz Preto",
+            "cost_price": 806.56,
+            "sale_price": 1225.18,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 2627.62,
+            "sale_price": 4289.22,
+            "date_added": "2025-12-03",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 27\" 4K Ultra HD Preto",
+            "description": "Produto Monitor Samsung Odyssey 27\" 4K Ultra HD Preto",
+            "cost_price": 1105.67,
+            "sale_price": 1581.81,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 2123.9,
+            "sale_price": 2771.51,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 30W Preto À prova d'água",
+            "cost_price": 935.83,
+            "sale_price": 1299.66,
+            "date_added": "2025-07-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 27\" Curvo Preto",
+            "description": "Produto Monitor Samsung Odyssey 27\" Curvo Preto",
+            "cost_price": 2912.96,
+            "sale_price": 4657.84,
+            "date_added": "2025-12-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 50\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 50\" Bivolt Cinza",
+            "cost_price": 1186.93,
+            "sale_price": 1515.28,
+            "date_added": "2025-08-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Feijão Camil Preto 2kg Pacote",
+            "description": "Produto Feijão Camil Preto 2kg Pacote",
+            "cost_price": 26.83,
+            "sale_price": 35.57,
+            "date_added": "2025-10-27",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Monitor Dell Professional 24\" 144Hz Preto",
+            "description": "Produto Monitor Dell Professional 24\" 144Hz Preto",
+            "cost_price": 1512.59,
+            "sale_price": 2116.88,
+            "date_added": "2025-09-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 3214.87,
+            "sale_price": 4375.8,
+            "date_added": "2025-09-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 977.98,
+            "sale_price": 1312.25,
+            "date_added": "2025-10-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi Cinza Espacial",
+            "cost_price": 835.11,
+            "sale_price": 1384.88,
+            "date_added": "2025-08-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 55\" Bivolt Cinza",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 55\" Bivolt Cinza",
+            "cost_price": 1749.48,
+            "sale_price": 2383.05,
+            "date_added": "2025-12-02",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2112.59,
+            "sale_price": 3477.09,
+            "date_added": "2025-12-31",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi + Cellular Azul",
+            "cost_price": 1359.33,
+            "sale_price": 2168.46,
+            "date_added": "2025-07-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 50\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 50\" Bivolt Cinza",
+            "cost_price": 3050.05,
+            "sale_price": 3956.65,
+            "date_added": "2025-11-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 15.6\" ABNT2",
+            "cost_price": 2971.63,
+            "sale_price": 3814.3,
+            "date_added": "2025-10-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi Azul",
+            "cost_price": 2207.33,
+            "sale_price": 3262.99,
+            "date_added": "2025-07-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 2965.9,
+            "sale_price": 4178.81,
+            "date_added": "2025-07-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 2954.96,
+            "sale_price": 4789.31,
+            "date_added": "2025-10-18",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 2519.09,
+            "sale_price": 4076.25,
+            "date_added": "2025-11-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 27\" 75Hz Preto",
+            "description": "Produto Monitor Samsung Odyssey 27\" 75Hz Preto",
+            "cost_price": 626.14,
+            "sale_price": 869.06,
+            "date_added": "2025-09-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 3128.06,
+            "sale_price": 4281.57,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 3615.9,
+            "sale_price": 4545.34,
+            "date_added": "2025-12-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Camuflado Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Camuflado Bluetooth",
+            "cost_price": 904.09,
+            "sale_price": 1460.55,
+            "date_added": "2025-08-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 24\" 144Hz Preto",
+            "description": "Produto Monitor LG UltraWide 24\" 144Hz Preto",
+            "cost_price": 2034.57,
+            "sale_price": 2558.41,
+            "date_added": "2025-11-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Preto Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Preto Bluetooth",
+            "cost_price": 1708.56,
+            "sale_price": 2185.85,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi Cinza Espacial",
+            "cost_price": 1318.99,
+            "sale_price": 1924.46,
+            "date_added": "2025-10-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 27\" 144Hz Preto",
+            "description": "Produto Monitor Dell Professional 27\" 144Hz Preto",
+            "cost_price": 851.1,
+            "sale_price": 1070.39,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Samsung Odyssey 24\" Curvo Preto",
+            "description": "Produto Monitor Samsung Odyssey 24\" Curvo Preto",
+            "cost_price": 3051.09,
+            "sale_price": 3982.51,
+            "date_added": "2025-09-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Azul Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Azul Bluetooth",
+            "cost_price": 2378.59,
+            "sale_price": 3563.13,
+            "date_added": "2025-09-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 30W Azul Bluetooth",
+            "cost_price": 1120.44,
+            "sale_price": 1746.62,
+            "date_added": "2025-08-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Camuflado Bluetooth",
+            "cost_price": 1369.31,
+            "sale_price": 2110.63,
+            "date_added": "2025-12-25",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 246.64,
+            "sale_price": 357.12,
+            "date_added": "2025-07-26",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 547.44,
+            "sale_price": 798.1,
+            "date_added": "2025-08-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Feijão Camil Preto 5kg Pacote",
+            "description": "Produto Feijão Camil Preto 5kg Pacote",
+            "cost_price": 39.11,
+            "sale_price": 55.16,
+            "date_added": "2025-07-15",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi Rosa",
+            "cost_price": 2182.9,
+            "sale_price": 3370.8,
+            "date_added": "2025-11-08",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi Azul",
+            "cost_price": 2781.38,
+            "sale_price": 3652.03,
+            "date_added": "2025-08-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "cost_price": 1470.74,
+            "sale_price": 2040.75,
+            "date_added": "2025-12-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Azul",
+            "cost_price": 1476.83,
+            "sale_price": 2059.71,
+            "date_added": "2025-07-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 2182.38,
+            "sale_price": 2923.85,
+            "date_added": "2025-12-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV TCL Google TV 50\" Bivolt Preto",
+            "description": "Produto Smart TV TCL Google TV 50\" Bivolt Preto",
+            "cost_price": 2064.77,
+            "sale_price": 2963.22,
+            "date_added": "2025-09-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor LG UltraWide 24\" 75Hz Preto",
+            "description": "Produto Monitor LG UltraWide 24\" 75Hz Preto",
+            "cost_price": 560.27,
+            "sale_price": 863.94,
+            "date_added": "2025-11-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 1276.58,
+            "sale_price": 1953.13,
+            "date_added": "2025-12-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Azul",
+            "cost_price": 1716.33,
+            "sale_price": 2262.56,
+            "date_added": "2025-08-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 256GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Pro M2 256GB Wi-Fi Azul",
+            "cost_price": 1379.99,
+            "sale_price": 2173.81,
+            "date_added": "2025-12-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi Cinza Espacial",
+            "cost_price": 2184.23,
+            "sale_price": 2743.24,
+            "date_added": "2025-11-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 648.91,
+            "sale_price": 983.18,
+            "date_added": "2025-09-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Preto À prova d'água",
+            "cost_price": 1254.38,
+            "sale_price": 1919.51,
+            "date_added": "2025-07-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 824.12,
+            "sale_price": 1245.64,
+            "date_added": "2025-11-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Farinha de Trigo Dona Benta 2kg Pacote",
+            "description": "Produto Farinha de Trigo Dona Benta 2kg Pacote",
+            "cost_price": 30.7,
+            "sale_price": 49.12,
+            "date_added": "2025-09-11",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 75\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 75\" Bivolt Preto",
+            "cost_price": 1536.55,
+            "sale_price": 1955.75,
+            "date_added": "2025-07-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 14\" US International",
+            "cost_price": 1387.01,
+            "sale_price": 2107.24,
+            "date_added": "2025-11-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Rosa",
+            "cost_price": 916.23,
+            "sale_price": 1275.11,
+            "date_added": "2025-08-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 32\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 32\" Bivolt Cinza",
+            "cost_price": 982.96,
+            "sale_price": 1449.1,
+            "date_added": "2025-10-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Preto À prova d'água",
+            "cost_price": 1919.9,
+            "sale_price": 3160.06,
+            "date_added": "2025-07-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 65\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 65\" Bivolt Cinza",
+            "cost_price": 1306.93,
+            "sale_price": 1911.18,
+            "date_added": "2025-08-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 684.06,
+            "sale_price": 1009.21,
+            "date_added": "2025-11-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1635.29,
+            "sale_price": 2486.26,
+            "date_added": "2025-11-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 3323.06,
+            "sale_price": 4864.95,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 64GB Wi-Fi + Cellular Prata",
+            "cost_price": 1695.55,
+            "sale_price": 2232.4,
+            "date_added": "2025-10-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi Prata",
+            "cost_price": 2061.23,
+            "sale_price": 3333.77,
+            "date_added": "2025-09-08",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 1201.86,
+            "sale_price": 1974.33,
+            "date_added": "2025-08-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 366.11,
+            "sale_price": 551.21,
+            "date_added": "2025-12-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 353.75,
+            "sale_price": 560.07,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 30W Preto À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 30W Preto À prova d'água",
+            "cost_price": 2742.23,
+            "sale_price": 3519.18,
+            "date_added": "2025-09-16",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 512GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Pro M2 512GB Wi-Fi + Cellular Azul",
+            "cost_price": 1649.4,
+            "sale_price": 2738.86,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Feijão Camil Preto 1kg Pacote",
+            "description": "Produto Feijão Camil Preto 1kg Pacote",
+            "cost_price": 9.7,
+            "sale_price": 15.49,
+            "date_added": "2025-12-31",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 20W Azul À prova d'água",
+            "cost_price": 1194.9,
+            "sale_price": 1513.1,
+            "date_added": "2025-10-31",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab A 512GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1087.47,
+            "sale_price": 1439.28,
+            "date_added": "2025-09-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 2748.28,
+            "sale_price": 4410.58,
+            "date_added": "2025-10-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 43\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 43\" Bivolt Cinza",
+            "cost_price": 2569.57,
+            "sale_price": 3738.88,
+            "date_added": "2025-07-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 2481.7,
+            "sale_price": 3550.01,
+            "date_added": "2025-07-04",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "cost_price": 194.74,
+            "sale_price": 286.17,
+            "date_added": "2025-07-24",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor LG UltraWide 24\" 4K Ultra HD Preto",
+            "description": "Produto Monitor LG UltraWide 24\" 4K Ultra HD Preto",
+            "cost_price": 2492.87,
+            "sale_price": 3216.31,
+            "date_added": "2025-09-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 631.92,
+            "sale_price": 927.46,
+            "date_added": "2025-09-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 1322.29,
+            "sale_price": 1985.09,
+            "date_added": "2025-09-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Camuflado À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Camuflado À prova d'água",
+            "cost_price": 2778.23,
+            "sale_price": 3474.18,
+            "date_added": "2025-07-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 65\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 65\" Bivolt Preto",
+            "cost_price": 2548.75,
+            "sale_price": 3264.08,
+            "date_added": "2025-12-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 468.94,
+            "sale_price": 752.51,
+            "date_added": "2025-08-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 859.09,
+            "sale_price": 1275.68,
+            "date_added": "2025-08-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Azul",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Azul",
+            "cost_price": 1178.84,
+            "sale_price": 1671.9,
+            "date_added": "2025-09-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi Rosa",
+            "cost_price": 1202.49,
+            "sale_price": 1964.17,
+            "date_added": "2025-07-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 20W Preto Bluetooth",
+            "description": "Produto Soundbar Samsung com Subwoofer 20W Preto Bluetooth",
+            "cost_price": 2641.36,
+            "sale_price": 3587.5,
+            "date_added": "2025-12-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 300W Camuflado Bluetooth",
+            "cost_price": 1955.52,
+            "sale_price": 2589.25,
+            "date_added": "2025-10-22",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 300W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 300W Preto Bluetooth",
+            "cost_price": 2142.07,
+            "sale_price": 3355.05,
+            "date_added": "2025-10-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 2964.78,
+            "sale_price": 4376.16,
+            "date_added": "2025-07-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 3166.51,
+            "sale_price": 4212.22,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 2916.25,
+            "sale_price": 4362.41,
+            "date_added": "2025-11-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 13.3\" US International",
+            "cost_price": 1666.77,
+            "sale_price": 2654.47,
+            "date_added": "2025-10-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 3166.95,
+            "sale_price": 4179.76,
+            "date_added": "2025-09-06",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1186.54,
+            "sale_price": 1814.87,
+            "date_added": "2025-07-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi + Cellular Rosa",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi + Cellular Rosa",
+            "cost_price": 2509.49,
+            "sale_price": 3570.04,
+            "date_added": "2025-08-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 554.01,
+            "sale_price": 902.41,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 347.78,
+            "sale_price": 511.84,
+            "date_added": "2025-12-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi Cinza Espacial",
+            "cost_price": 1860.08,
+            "sale_price": 2492.76,
+            "date_added": "2025-07-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 14\" US International",
+            "cost_price": 1140.64,
+            "sale_price": 1726.89,
+            "date_added": "2025-12-12",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 2967.72,
+            "sale_price": 4907.99,
+            "date_added": "2025-10-17",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi Azul",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi Azul",
+            "cost_price": 1351.57,
+            "sale_price": 1912.36,
+            "date_added": "2025-12-04",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 55\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 55\" Bivolt Preto",
+            "cost_price": 1073.7,
+            "sale_price": 1580.42,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 32GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 768.41,
+            "sale_price": 989.32,
+            "date_added": "2025-08-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 128GB Wi-Fi Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab S 128GB Wi-Fi Prata",
+            "cost_price": 2834.09,
+            "sale_price": 3886.29,
+            "date_added": "2025-11-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Camuflado À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Camuflado À prova d'água",
+            "cost_price": 1267.98,
+            "sale_price": 1954.64,
+            "date_added": "2025-10-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 300W Azul À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 300W Azul À prova d'água",
+            "cost_price": 889.8,
+            "sale_price": 1292.59,
+            "date_added": "2025-07-17",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 1837.15,
+            "sale_price": 2799.24,
+            "date_added": "2025-08-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 1246.57,
+            "sale_price": 1708.53,
+            "date_added": "2025-12-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 128GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Pro M2 128GB Wi-Fi + Cellular Azul",
+            "cost_price": 2397.99,
+            "sale_price": 3054.19,
+            "date_added": "2025-12-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 30W Preto Bluetooth",
+            "cost_price": 845.23,
+            "sale_price": 1398.07,
+            "date_added": "2025-11-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 2992.09,
+            "sale_price": 4623.71,
+            "date_added": "2025-10-31",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 64GB Wi-Fi + Cellular Cinza Espacial",
+            "cost_price": 1208.95,
+            "sale_price": 1612.22,
+            "date_added": "2025-07-14",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab S 512GB Wi-Fi Cinza Espacial",
+            "description": "Produto Tablet Samsung Galaxy Tab S 512GB Wi-Fi Cinza Espacial",
+            "cost_price": 1363.44,
+            "sale_price": 1963.57,
+            "date_added": "2025-09-28",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Impressora HP DeskJet Ink Advantage Jato de Tinta Preto",
+            "description": "Produto Impressora HP DeskJet Ink Advantage Jato de Tinta Preto",
+            "cost_price": 2610.05,
+            "sale_price": 3568.63,
+            "date_added": "2025-08-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 512GB SSD 13.3\" ABNT2",
+            "cost_price": 276.13,
+            "sale_price": 376.29,
+            "date_added": "2025-08-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi + Cellular Prata",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi + Cellular Prata",
+            "cost_price": 1812.17,
+            "sale_price": 2423.47,
+            "date_added": "2025-10-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 78.88,
+            "sale_price": 125.59,
+            "date_added": "2025-12-19",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 917.2,
+            "sale_price": 1255.47,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Camuflado Bluetooth",
+            "cost_price": 1240.94,
+            "sale_price": 1908.67,
+            "date_added": "2025-10-24",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 32GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 1244.58,
+            "sale_price": 1687.89,
+            "date_added": "2025-12-12",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "cost_price": 3291.82,
+            "sale_price": 4729.38,
+            "date_added": "2025-07-08",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 2990.67,
+            "sale_price": 4935.66,
+            "date_added": "2025-09-16",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 65\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 65\" Bivolt Preto",
+            "cost_price": 1640.81,
+            "sale_price": 2198.75,
+            "date_added": "2025-12-26",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 512GB Wi-Fi + Cellular Azul",
+            "description": "Produto Apple iPad Air 512GB Wi-Fi + Cellular Azul",
+            "cost_price": 1448.96,
+            "sale_price": 2397.76,
+            "date_added": "2025-09-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi Cinza Espacial",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi Cinza Espacial",
+            "cost_price": 1137.04,
+            "sale_price": 1643.13,
+            "date_added": "2025-08-11",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 1TB SSD 13.3\" ABNT2",
+            "cost_price": 3241.03,
+            "sale_price": 4488.05,
+            "date_added": "2025-08-25",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 43\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 43\" Bivolt Preto",
+            "cost_price": 1611.14,
+            "sale_price": 2475.45,
+            "date_added": "2025-10-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 1618.43,
+            "sale_price": 2100.19,
+            "date_added": "2025-12-01",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 15.6\" US International",
+            "cost_price": 232.41,
+            "sale_price": 382.49,
+            "date_added": "2025-09-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor Dell Professional 27\" 75Hz Preto",
+            "description": "Produto Monitor Dell Professional 27\" 75Hz Preto",
+            "cost_price": 2299.66,
+            "sale_price": 3293.3,
+            "date_added": "2025-10-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Monitor LG UltraWide 24\" Curvo Preto",
+            "description": "Produto Monitor LG UltraWide 24\" Curvo Preto",
+            "cost_price": 2657.25,
+            "sale_price": 3849.59,
+            "date_added": "2025-07-27",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 75\" Bivolt Cinza",
+            "description": "Produto Smart TV Philips Ambilight 75\" Bivolt Cinza",
+            "cost_price": 1621.46,
+            "sale_price": 2209.27,
+            "date_added": "2025-11-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 30W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 30W Preto À prova d'água",
+            "cost_price": 1887.87,
+            "sale_price": 3046.15,
+            "date_added": "2025-11-13",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 43\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 43\" Bivolt Preto",
+            "cost_price": 2546.74,
+            "sale_price": 3279.87,
+            "date_added": "2025-08-18",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "cost_price": 3014.78,
+            "sale_price": 4671.52,
+            "date_added": "2025-11-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Açúcar União Refinado 1kg Pacote",
+            "description": "Produto Açúcar União Refinado 1kg Pacote",
+            "cost_price": 13.68,
+            "sale_price": 20.2,
+            "date_added": "2025-07-06",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 13.3\" US International",
+            "cost_price": 852.36,
+            "sale_price": 1143.07,
+            "date_added": "2025-12-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 20W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 20W Preto À prova d'água",
+            "cost_price": 2335.41,
+            "sale_price": 3598.44,
+            "date_added": "2025-07-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 2068.67,
+            "sale_price": 3348.72,
+            "date_added": "2025-11-23",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 13.3\" US International",
+            "cost_price": 3372.68,
+            "sale_price": 4499.42,
+            "date_added": "2025-10-29",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 8GB RAM 256GB SSD 13.3\" ABNT2",
+            "cost_price": 2498.06,
+            "sale_price": 4032.74,
+            "date_added": "2025-08-26",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi + Cellular Prata",
+            "cost_price": 2203.73,
+            "sale_price": 3188.14,
+            "date_added": "2025-12-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 300W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL PartyBox 300W Camuflado Bluetooth",
+            "cost_price": 2067.55,
+            "sale_price": 2935.18,
+            "date_added": "2025-11-12",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV TCL Google TV 43\" Bivolt Cinza",
+            "description": "Produto Smart TV TCL Google TV 43\" Bivolt Cinza",
+            "cost_price": 1798.95,
+            "sale_price": 2459.34,
+            "date_added": "2025-09-27",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 1TB SSD 14\" US International",
+            "cost_price": 1804.86,
+            "sale_price": 2419.09,
+            "date_added": "2025-09-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 15.6\" ABNT2",
+            "cost_price": 570.32,
+            "sale_price": 740.9,
+            "date_added": "2025-09-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "cost_price": 2052.75,
+            "sale_price": 3097.91,
+            "date_added": "2025-09-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "description": "Produto MacBook Air M2 Intel Core i5 8GB RAM 256GB SSD 14\" US International",
+            "cost_price": 3650.81,
+            "sale_price": 4580.18,
+            "date_added": "2025-12-21",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Apple iPad Air 256GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Air 256GB Wi-Fi Prata",
+            "cost_price": 1414.29,
+            "sale_price": 2356.11,
+            "date_added": "2025-08-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Azul Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 160W Azul Bluetooth",
+            "cost_price": 2051.76,
+            "sale_price": 3177.56,
+            "date_added": "2025-09-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 32\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 32\" Bivolt Preto",
+            "cost_price": 1217.04,
+            "sale_price": 1645.64,
+            "date_added": "2025-11-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV Philips Ambilight 43\" Bivolt Preto",
+            "description": "Produto Smart TV Philips Ambilight 43\" Bivolt Preto",
+            "cost_price": 1278.87,
+            "sale_price": 2102.52,
+            "date_added": "2025-10-19",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Pro M2 64GB Wi-Fi Prata",
+            "description": "Produto Apple iPad Pro M2 64GB Wi-Fi Prata",
+            "cost_price": 1455.44,
+            "sale_price": 2183.97,
+            "date_added": "2025-08-15",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Prata",
+            "description": "Produto Tablet Samsung Galaxy Tab A 256GB Wi-Fi + Cellular Prata",
+            "cost_price": 1578.62,
+            "sale_price": 2029.73,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 871.72,
+            "sale_price": 1229.26,
+            "date_added": "2025-07-05",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV Samsung Crystal UHD 4K 65\" Bivolt Preto",
+            "description": "Produto Smart TV Samsung Crystal UHD 4K 65\" Bivolt Preto",
+            "cost_price": 2138.64,
+            "sale_price": 2775.15,
+            "date_added": "2025-07-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 15.6\" ABNT2",
+            "cost_price": 1199.75,
+            "sale_price": 1691.55,
+            "date_added": "2025-11-13",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL PartyBox 20W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL PartyBox 20W Azul À prova d'água",
+            "cost_price": 1343.96,
+            "sale_price": 1939.97,
+            "date_added": "2025-08-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Apple iPad Air 128GB Wi-Fi Rosa",
+            "description": "Produto Apple iPad Air 128GB Wi-Fi Rosa",
+            "cost_price": 970.83,
+            "sale_price": 1464.66,
+            "date_added": "2025-09-06",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "description": "Produto Notebook Acer Aspire 5 Intel Core i5 16GB RAM 256GB SSD 14\" US International",
+            "cost_price": 1418.87,
+            "sale_price": 1958.83,
+            "date_added": "2025-08-14",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Arroz Tio João Tipo 1 1kg Pacote",
+            "description": "Produto Arroz Tio João Tipo 1 1kg Pacote",
+            "cost_price": 12.4,
+            "sale_price": 16.51,
+            "date_added": "2025-11-06",
+            "active": false,
+            "category": "Alimentos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 1TB SSD 15.6\" US International",
+            "cost_price": 668.7,
+            "sale_price": 972.96,
+            "date_added": "2025-10-11",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Pro M3 Intel Core i5 16GB RAM 256GB SSD 14\" ABNT2",
+            "cost_price": 1932.55,
+            "sale_price": 2654.78,
+            "date_added": "2025-11-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Preto Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 160W Preto Bluetooth",
+            "cost_price": 1806.59,
+            "sale_price": 2854.4,
+            "date_added": "2025-12-03",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto MacBook Air M2 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 224.5,
+            "sale_price": 336.6,
+            "date_added": "2025-10-22",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Soundbar Samsung com Subwoofer 160W Preto À prova d'água",
+            "description": "Produto Soundbar Samsung com Subwoofer 160W Preto À prova d'água",
+            "cost_price": 2027.15,
+            "sale_price": 2965.36,
+            "date_added": "2025-07-30",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 50\" Bivolt Preto",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 50\" Bivolt Preto",
+            "cost_price": 2533.03,
+            "sale_price": 3204.47,
+            "date_added": "2025-07-10",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Preto À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 160W Preto À prova d'água",
+            "cost_price": 1428.07,
+            "sale_price": 2303.29,
+            "date_added": "2025-12-21",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 30W Camuflado Bluetooth",
+            "description": "Produto Caixa de Som JBL Flip 30W Camuflado Bluetooth",
+            "cost_price": 1822.83,
+            "sale_price": 2398.06,
+            "date_added": "2025-10-23",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 8GB RAM 1TB SSD 14\" ABNT2",
+            "cost_price": 3178.05,
+            "sale_price": 4039.78,
+            "date_added": "2025-09-01",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "description": "Produto Notebook Dell Inspiron 15 Intel Core i5 16GB RAM 512GB SSD 14\" ABNT2",
+            "cost_price": 392.17,
+            "sale_price": 508.27,
+            "date_added": "2025-08-20",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Caixa de Som JBL Flip 160W Azul À prova d'água",
+            "description": "Produto Caixa de Som JBL Flip 160W Azul À prova d'água",
+            "cost_price": 922.2,
+            "sale_price": 1242.55,
+            "date_added": "2025-11-09",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 8GB RAM 256GB SSD 15.6\" US International",
+            "cost_price": 107.39,
+            "sale_price": 140.22,
+            "date_added": "2025-11-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Smart TV LG ThinQ AI NanoCell 32\" Bivolt Cinza",
+            "description": "Produto Smart TV LG ThinQ AI NanoCell 32\" Bivolt Cinza",
+            "cost_price": 1455.6,
+            "sale_price": 2332.33,
+            "date_added": "2025-11-20",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "description": "Produto Notebook Lenovo IdeaPad 3 Intel Core i5 16GB RAM 512GB SSD 14\" US International",
+            "cost_price": 1536.27,
+            "sale_price": 2540.64,
+            "date_added": "2025-09-30",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Tablet Samsung Galaxy Tab A 128GB Wi-Fi Rosa",
+            "description": "Produto Tablet Samsung Galaxy Tab A 128GB Wi-Fi Rosa",
+            "cost_price": 2021.82,
+            "sale_price": 2921.42,
+            "date_added": "2025-09-29",
+            "active": false,
+            "category": "Eletrônicos"
+        },
+        {
+            "name": "Monitor Dell Professional 27\" Curvo Preto",
+            "description": "Produto Monitor Dell Professional 27\" Curvo Preto",
+            "cost_price": 1161.45,
+            "sale_price": 1861.37,
+            "date_added": "2025-07-28",
+            "active": false,
+            "category": "Informática"
+        },
+        {
+            "name": "Arroz Tio João Tipo 1 2kg Pacote",
+            "description": "Produto Arroz Tio João Tipo 1 2kg Pacote",
+            "cost_price": 17.65,
+            "sale_price": 29.07,
+            "date_added": "2025-10-22",
+            "active": false,
+            "category": "Alimentos"
+        }
+    ]
+}
